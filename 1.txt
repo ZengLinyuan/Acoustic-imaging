@@ -1,0 +1,7 @@
+git init
+git config --global user.email"邮箱" 
+git config --global user.name"Aurorajwj" 
+git add . 
+git commit -m "first commit"
+git remote add origin https://github.com/Aurorajwj/KnowledgeGraph-of-Tang-and-Song-Poetry.git
+git push -u origin master
