@@ -5,3 +5,5 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/Aurorajwj/KnowledgeGraph-of-Tang-and-Song-Poetry.git
 git push -u origin master
+上传时仓库非空时，最后一句改为：
+git push origin master
